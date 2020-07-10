@@ -21,7 +21,7 @@ Inspired by the simplicity of the one-string “Diddley-Bow” of Delta Blues, t
 <li class="level1"><div class="li">Uses Arduino firmware allowing for augmentation and support from a HUGE open-source community.</div>
 </li>
 </ul>
-Check out the latest demo on Youtube! : [http://youtu.be/1mFMLxMdEss](http://youtu.be/1mFMLxMdEss)
+Check out the demo on Youtube! : http://youtu.be/1mFMLxMdEss
 
 #### How it Works – What’s a “ribbon controller”??
 
