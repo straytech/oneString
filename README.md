@@ -2,7 +2,7 @@
 
 A simple DIY usb ribbon synthesizer controller
 
-This project was originally released on May 15, 2012. It is available here for reference. Though updates are no longer being created, I will builders and kit owners as possible.
+This project was originally released on May 15, 2012. It is available here for reference. Though updates are no longer being created, I will support builders and kit owners as possible.
 
 #### Description
 Inspired by the simplicity of the one-string “Diddley-Bow” of Delta Blues, the oneString controller is a super-simple and highly-expressive controller for laptop musicians. It’s designed to be an easy to construct, open-source USB MIDI ribbon controller for musicians looking for a new way to perform and compose.
