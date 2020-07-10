@@ -7,13 +7,20 @@ This project was originally released on May 15, 2012. It is available here for r
 #### Description
 Inspired by the simplicity of the one-string “Diddley-Bow” of Delta Blues, the oneString controller is a super-simple and highly-expressive controller for laptop musicians. It’s designed to be an easy to construct, open-source USB MIDI ribbon controller for musicians looking for a new way to perform and compose.
 
-    * USB Powered, allowing for only one cable. This means easy setup and portability in our wire-filled lives.
-    * Uses a standard MIDI signal over USB allowing compatibility with almost all music software packages. (ANYTHING that takes keyboard input: Reason, reNoise, Energy XT, Ableton, FL Studio, Max-MSP, PureData… the list is endless!)
-    * Uses free and open-source drivers to allow the most economical cross-platform (WIN, OSX, LINUX) solution.
-    * Uses a minimum of parts, making it cheap and allowing for simple build instruction that even a beginner builder can finish in a day.
-    * Body construction based on simple parts, allowing for everyone to easily make cool unique instruments without a wood-shop or plastics prototyping shop at their disposal.
-    * Uses Arduino firmware allowing for augmentation and support from a HUGE open-source community.
-
+<ul>
+<li class="level1"><div class="li">USB Powered, allowing for only one cable. This means easy setup and portability in our wire-filled lives.</div>
+</li>
+<li class="level1"><div class="li">Uses a standard MIDI signal over USB allowing compatibility with almost all music software packages. (ANYTHING that takes keyboard input: Reason, reNoise, Energy XT, Ableton, FL Studio, Max-MSP, PureData… the list is endless!)</div>
+</li>
+<li class="level1"><div class="li">Uses free and open-source drivers to allow the most economical cross-platform (WIN, OSX, LINUX) solution.</div>
+</li>
+<li class="level1"><div class="li">Uses a minimum of parts, making it cheap and allowing for simple build instruction that even a beginner builder can finish in a day.</div>
+</li>
+<li class="level1"><div class="li">Body construction based on simple parts, allowing for everyone to easily make cool unique instruments without a wood-shop or plastics prototyping shop at their disposal.</div>
+</li>
+<li class="level1"><div class="li">Uses Arduino firmware allowing for augmentation and support from a HUGE open-source community.</div>
+</li>
+</ul>
 Check out the latest demo on Youtube! : [http://youtu.be/1mFMLxMdEss](http://youtu.be/1mFMLxMdEss)
 
 #### How it Works – What’s a “ribbon controller”??
